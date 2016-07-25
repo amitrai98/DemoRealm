@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/insert"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="@string/insert"/>
+        <item
+            android:id="@+id/update"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="@string/update"/>
+        <item
+            android:id="@+id/btnDelete"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/delete"/>
+
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/retrieve_single"
+                android:icon="@drawable/ic_menu_share"
+                android:title="@string/retrieve_single"/>
+            <item
+                android:id="@+id/retrieve_all"
+                android:icon="@drawable/ic_menu_send"
+                android:title="@string/retrieve_all"/>
+        </menu>
+    </item>
+
+</menu>

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">DemoRealm</string>
+    <string name="status">status</string>
+    <string name="insert">Insert</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="retrieve_single">Retrieve Single Object</string>
+    <string name="retrieve_all">Retrieve all Objects</string>
+    <string name="title_activity_base">BaseActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+</resources>
